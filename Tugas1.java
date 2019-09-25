@@ -5,8 +5,8 @@ public class Tugas1 {
     {
         Scanner inp = new Scanner(System.in);
 
-        System.out.println("DAMANHURI");
-        System.out.println("171011450174\n\n");
+        System.out.println("NAMALU");
+        System.out.println("NIMLU");
 
         System.out.print("Nilai Absen : ");
         double absen = inp.nextDouble();
